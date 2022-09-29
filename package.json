@@ -1,0 +1,22 @@
+{
+  "name": "mapd-713-assignment1",
+  "version": "1.0.0",
+  "description": "Submission for first assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "esh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "seneca": "^2.0.0",
+    "seneca-entity": "^1.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitghhb."
+  }
+}
